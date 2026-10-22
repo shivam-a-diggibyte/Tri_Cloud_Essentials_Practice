@@ -25,7 +25,7 @@ Tri_Cloud_Essentials_Practice/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         └── day_2_azure_fundamentals/
-            └── [Day 2 learning materials]
+            └── day_2_azure_fundamentals.pdf
 ```
 
 The tree reflects the current learning organization; additional files
