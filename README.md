@@ -1,71 +1,81 @@
 # Tri-Cloud Essentials Practice
 
-A structured learning repository documenting my Tri-Cloud Essentials learning journey, including cloud concepts, technical notes, and practical exercises.
-
-## About the Repository
-
-This repository serves as a centralized knowledge base for my cloud learning journey, beginning with Microsoft Azure. It contains organized daily notes, service explanations, and practical learning materials to strengthen my cloud computing and data engineering knowledge.
+A hands-on learning repository documenting my Tri-Cloud Essentials
+training, with notes and practical exercises across Microsoft Azure,
+Amazon Web Services (AWS), and Google Cloud Platform (GCP).
 
 ## Learning Objectives
 
-- Understand fundamental cloud computing concepts.
-- Explore Azure compute and storage services.
-- Learn subscriptions, resource groups, and resource management.
-- Understand Azure Data Lake Storage Gen2 (ADLS Gen2).
-- Learn Microsoft Entra ID and identity management.
-- Explore cloud security, monitoring, and data engineering integration.
-
-## Cloud Platform
-
-**Microsoft Azure**
-
-The repository currently focuses on Azure fundamentals and organizes learning materials by day and topic.
+-   Understand core cloud concepts, services, identity, access
+    management, storage, and monitoring.
+-   Practice cloud security principles, including least privilege and
+    role-based access control.
+-   Explore cloud services used in data engineering and Databricks
+    integrations.
+-   Keep learning materials and practical work organized by cloud
+    provider and study day.
 
 ## Repository Structure
 
-```text
+``` text
 Tri_Cloud_Essentials_Practice/
 ├── README.md
 └── src/
-    └── azure/
-        └── day_1_azure_fundamentals/
-            └── azure_fundamentals.docx
+    └── Azure/
+        ├── day_1_azure_fundamentals/
+        │   └── day_1_azure_fundamentals.pdf
+        └── day_2_azure_fundamentals/
+            └── [Day 2 learning materials]
 ```
 
-*Additional Azure topic folders and documentation will be added as the learning progresses.*
+The tree reflects the current learning organization; additional files
+will be added as the exercises progress.
 
-## Learning Documentation
+## Current Progress --- 22 October 2026
 
-Each day's folder may contain:
+### Azure I --- Cloud Fundamentals, Storage, and Identity
 
-- Conceptual explanations and definitions
-- Azure service features and use cases
-- Practical implementation steps
-- Security considerations and best practices
-- Troubleshooting notes and official references
+**Day 1: Cloud Fundamentals and Storage** - Reviewed cloud concepts,
+subscriptions, and resource groups. - Explored Azure compute and storage
+services. - Studied Azure Data Lake Storage Gen2 (ADLS Gen2),
+containers, and hierarchical namespace. - Day 1 notes are maintained in
+the PDF under `src/Azure/day_1_azure_fundamentals/`.
 
-## Getting Started
+**Day 2: Identity and Access Management** - Studying Microsoft Entra ID
+fundamentals. - Learning how to create and use managed identities. -
+Understanding Azure role-based access control (Azure RBAC), roles, and
+scope. - Practising the principal--role--resource assignment model. -
+Reviewing the principle of least privilege and the
+`Storage Blob Data Contributor` role pattern for blob data access.
 
-Clone the repository:
+## Planned Learning Areas
 
-```bash
-git clone https://github.com/shivam-a-diggibyte/Tri_Cloud_Essentials_Practice.git
-```
+-   **Microsoft Azure:** Identity and access management, Key Vault,
+    Azure Data Factory, Azure Monitor, Databricks connectivity, and
+    Azure DevOps CI/CD.
+-   **Amazon Web Services (AWS):** IAM, S3, Secrets Manager, KMS, Step
+    Functions, Glue, CloudWatch, and Databricks connectivity.
+-   **Google Cloud Platform (GCP):** Projects, Cloud Storage, IAM and
+    service accounts, Secret Manager, Cloud Monitoring, and Databricks
+    overview.
 
-Navigate to the project directory:
+These are planned study areas; progress will be updated as each topic is
+covered.
 
-```bash
-cd Tri_Cloud_Essentials_Practice
-```
+## Tools and Technologies
 
-Explore the `src/azure/` directory to access the learning materials.
+-   Microsoft Azure
+-   Amazon Web Services (AWS)
+-   Google Cloud Platform (GCP)
+-   Git and GitHub
+-   Databricks (cloud integration topics)
 
+## Purpose
+
+This repository serves as a structured record of my cloud learning
+journey, including study notes, practical exercises, and examples. The
+content will evolve as I complete each topic.
 
 ## Author
 
-**Shivam Kumar**
-
-GitHub: [shivam-a-diggibyte](https://github.com/shivam-a-diggibyte)
-
-Repository: [Tri_Cloud_Essentials_Practice](https://github.com/shivam-a-diggibyte/Tri_Cloud_Essentials_Practice)
-
+[shivam-a-diggibyte](https://github.com/shivam-a-diggibyte)
