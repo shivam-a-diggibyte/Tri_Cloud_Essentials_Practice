@@ -44,7 +44,7 @@ Tri_Cloud_Essentials_Practice/
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 22 October 2026
+## Current Progress --- 23 October 2026
 
 ### Azure I --- Cloud Fundamentals, Storage, and Identity
 
@@ -61,12 +61,7 @@ scope. - Practising the principal--role--resource assignment model. -
 Reviewing the principle of least privilege and the
 `Storage Blob Data Contributor` role pattern for blob data access.
 
-**Day 3: Azure Security and Data Integration**
-- Learning Azure Key Vault fundamentals, including secrets and keys.
-- Understanding the differences between Azure RBAC and access policies in Key Vault.
-- Studying Azure Data Factory pipelines, linked services, and activities.
-- Exploring Azure Data Factory triggers and their use in pipeline scheduling.
-- Learning Azure Monitor fundamentals, including metrics, logs, and alerts.
+**Day 3: Azure Security and Data Integration** - Learning Azure Key Vault fundamentals, including secrets and keys. - Understanding the differences between Azure RBAC and access policies in Key Vault. - Studying Azure Data Factory pipelines, linked services, and activities. - Exploring Azure Data Factory triggers and their use in pipeline scheduling. - Learning Azure Monitor fundamentals, including metrics, logs, and alerts.
 
 ### Lab 1: Managed Identity and RBAC
 
