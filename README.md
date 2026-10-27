@@ -23,30 +23,26 @@ Tri_Cloud_Essentials_Practice/
 └── src/
     └── Azure/
         ├── azure_lab/
-        │   └── lab_1/
-        │       ├── add_identity_to_vm.png
-        │       ├── assign_role_at_container.png
-        │       ├── create_container.png
-        │       ├── create_managed_identity.png
-        │       ├── create_resource_group.png
-        │       ├── create_storage_account.png
-        │       ├── create_vm.png
-        │       ├── identity_details.png
-        │       └── validate_access.png
+        │   ├── lab_1/
+        │   ├── lab_2_activities/
+        │   ├── lab_3_triggers/
+        │   └── lab_4_monitoring/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         ├── day_2_azure_fundamentals/
         │   └── [Day 2 learning files]
         ├── day_3_azure_fundamentals/
         │   └── day_3_azure_fundamentals.pdf
-        └── day_4_azure_fundamentals/
-            └── day_4_azure_fundamentals.pdf
+        ├── day_4_azure_fundamentals/
+        │   └── day_4_azure_fundamentals.pdf
+        └── day_5_azure_fundamentals/
+            └── day_5_azure_fundamentals.pdf
 ```
 
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 26th, October 2026
+## Current Progress --- 27th, October 2026
 
 ## Azure Learning Progress
 
@@ -64,6 +60,10 @@ will be added as the exercises progress.
 **Day 4: Azure Fundamentals**
 - Continuing Azure fundamentals learning with the Day 4 study material.
 - Keeping daily learning notes and reference material organised in the Azure section.
+
+**Day 5: Azure Data Integration and Monitoring**
+- Continuing Azure learning with the Day 5 study material.
+- Organising practical exercises for Azure Data Factory activities, triggers, and Azure Monitor.
 
 ## Lab 1: Managed Identity and RBAC
 
