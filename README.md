@@ -26,7 +26,8 @@ Tri_Cloud_Essentials_Practice/
         │   ├── lab_1/
         │   ├── lab_2_activities/
         │   ├── lab_3_triggers/
-        │   └── lab_4_monitoring/
+        │   ├── lab_4_monitoring/
+        │   └── lab_5_IR/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         ├── day_2_azure_fundamentals/
