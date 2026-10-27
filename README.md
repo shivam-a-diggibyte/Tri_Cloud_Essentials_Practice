@@ -30,7 +30,7 @@ Tri_Cloud_Essentials_Practice/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         ├── day_2_azure_fundamentals/
-        │   └── [Day 2 learning files]
+        │   └── day_2_azure_fundamentals.pdf
         ├── day_3_azure_fundamentals/
         │   └── day_3_azure_fundamentals.pdf
         ├── day_4_azure_fundamentals/
