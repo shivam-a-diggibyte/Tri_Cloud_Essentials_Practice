@@ -36,43 +36,44 @@ Tri_Cloud_Essentials_Practice/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         ├── day_2_azure_fundamentals/
-        │   └── day_2_azure_fundamentals.pdf
-        └── day_3_azure_fundamentals/
-            └── day_3_azure_fundamentals.pdf
+        │   └── [Day 2 learning files]
+        ├── day_3_azure_fundamentals/
+        │   └── day_3_azure_fundamentals.pdf
+        └── day_4_azure_fundamentals/
+            └── day_4_azure_fundamentals.pdf
 ```
 
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 23 October 2026
+## Current Progress --- 26th, October 2026
 
-### Azure I --- Cloud Fundamentals, Storage, and Identity
+## Azure Learning Progress
 
-**Day 1: Cloud Fundamentals and Storage** - Reviewed cloud concepts,
-subscriptions, and resource groups. - Explored Azure compute and storage
-services. - Studied Azure Data Lake Storage Gen2 (ADLS Gen2),
-containers, and hierarchical namespace. - Day 1 notes are maintained in
-the PDF under `src/Azure/day_1_azure_fundamentals/`.
+**Day 1: Azure Fundamentals** - Learning core cloud concepts and Azure fundamentals, including subscriptions, resource groups, compute, and storage.
 
-**Day 2: Identity and Access Management** - Studying Microsoft Entra ID
-fundamentals. - Learning how to create and use managed identities. -
-Understanding Azure role-based access control (Azure RBAC), roles, and
-scope. - Practising the principal--role--resource assignment model. -
-Reviewing the principle of least privilege and the
-`Storage Blob Data Contributor` role pattern for blob data access.
+**Day 2: Identity and Access Management** - Studying Microsoft Entra ID fundamentals. - Learning how to create and use managed identities. - Understanding Azure role-based access control (Azure RBAC), roles, and scope. - Practising the principal--role--resource assignment model. - Reviewing the principle of least privilege and the `Storage Blob Data Contributor` role pattern for blob data access.
 
-**Day 3: Azure Security and Data Integration** - Learning Azure Key Vault fundamentals, including secrets and keys. - Understanding the differences between Azure RBAC and access policies in Key Vault. - Studying Azure Data Factory pipelines, linked services, and activities. - Exploring Azure Data Factory triggers and their use in pipeline scheduling. - Learning Azure Monitor fundamentals, including metrics, logs, and alerts.
+**Day 3: Azure Security and Data Integration**
+- Learning Azure Key Vault fundamentals, including secrets and keys.
+- Understanding the differences between Azure RBAC and access policies in Key Vault.
+- Studying Azure Data Factory pipelines, linked services, and activities.
+- Exploring Azure Data Factory triggers and their use in pipeline scheduling.
+- Learning Azure Monitor fundamentals, including metrics, logs, and alerts.
 
-### Lab 1: Managed Identity and RBAC
+**Day 4: Azure Fundamentals**
+- Continuing Azure fundamentals learning with the Day 4 study material.
+- Keeping daily learning notes and reference material organised in the Azure section.
+
+## Lab 1: Managed Identity and RBAC
 
 The practical lab covers:
 
-1. Create a resource group and storage account.
-2. Create a container in the storage account.
-3. Create a managed identity and a virtual machine.
-4. Assign the managed identity to the VM.
-5. Grant an appropriate role at the container scope.
-6. Validated the access by uploading files.
+1. Creating a resource group and storage account.
+2. Creating a container in the storage account.
+3. Creating a managed identity.
+4. Assigning an appropriate role at the container scope.
+5. Validating access using managed identity.
 
 Screenshots documenting the lab steps are available in `src/Azure/azure_lab/lab_1/`.
 
