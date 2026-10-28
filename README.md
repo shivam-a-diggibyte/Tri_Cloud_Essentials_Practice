@@ -36,14 +36,16 @@ Tri_Cloud_Essentials_Practice/
         │   └── day_3_azure_fundamentals.pdf
         ├── day_4_azure_fundamentals/
         │   └── day_4_azure_fundamentals.pdf
-        └── day_5_azure_fundamentals/
-            └── day_5_azure_fundamentals.pdf
+        ├── day_5_azure_fundamentals/
+        │   └── day_5_azure_fundamentals.pdf
+        └── day_6_azure_fundamentals/
+            └── day_6_azure_fundamentals.pdf
 ```
 
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 27th, October 2026
+## Current Progress --- 28th, October 2026
 
 ## Azure Learning Progress
 
@@ -63,6 +65,10 @@ will be added as the exercises progress.
 - Keeping daily learning notes and reference material organised in the Azure section.
 
 **Day 5: Azure Data Integration and Monitoring**
+- Continuing Azure learning with the Day 5 study material.
+- Organising practical exercises for Azure Data Factory activities, triggers, and Azure Monitor.
+
+**Day 6: Databricks Connectivity and CI/CD**
 - Continuing Azure learning with the Day 5 study material.
 - Organising practical exercises for Azure Data Factory activities, triggers, and Azure Monitor.
 
