@@ -21,9 +21,13 @@ Amazon Web Services (AWS), and Google Cloud Platform (GCP).
 Tri_Cloud_Essentials_Practice/
 ├── README.md
 └── src/
+    ├── AWS/
+    │   └── day_1_aws_fundamentals/
+    │       └── day_1_aws_fundamentals.pdf
     └── Azure/
         ├── azure_lab/
         │   ├── lab_1/
+        │   ├── lab_2/
         │   ├── lab_2_activities/
         │   ├── lab_3_triggers/
         │   ├── lab_4_monitoring/
@@ -31,7 +35,7 @@ Tri_Cloud_Essentials_Practice/
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
         ├── day_2_azure_fundamentals/
-        │   └── day_2_azure_fundamentals.pdf
+        │   └── [Day 2 learning files]
         ├── day_3_azure_fundamentals/
         │   └── day_3_azure_fundamentals.pdf
         ├── day_4_azure_fundamentals/
@@ -45,7 +49,7 @@ Tri_Cloud_Essentials_Practice/
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 28th, October 2026
+## Current Progress --- 29th, October 2026
 
 ## Azure Learning Progress
 
@@ -71,6 +75,10 @@ will be added as the exercises progress.
 **Day 6: Databricks Connectivity and CI/CD**
 - Continuing Azure learning with the Day 5 study material.
 - Organising practical exercises for Azure Data Factory activities, triggers, and Azure Monitor.
+
+## AWS Learning Progress
+
+**Day 1: AWS Fundamentals** - AWS introductory learning material is available in `src/AWS/day_1_aws_fundamentals/`.
 
 ## Lab 1: Managed Identity and RBAC
 
