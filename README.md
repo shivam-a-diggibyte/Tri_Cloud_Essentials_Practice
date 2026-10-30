@@ -19,29 +19,44 @@ Amazon Web Services (AWS), and Google Cloud Platform (GCP).
 
 ```text
 Tri_Cloud_Essentials_Practice/
+│
 ├── README.md
+│
 └── src/
+    │
     ├── AWS/
-    │   └── day_1_aws_fundamentals/
-    │       └── day_1_aws_fundamentals.pdf
+    │   ├── day_1_aws_fundamentals/
+    │   │   └── day_1_aws_fundamentals.pdf
+    │   │
+    │   └── day_2_aws_fundamentals/
+    │       └── day_2_aws_fundamentals.pdf
+    │
     └── Azure/
+        │
         ├── azure_lab/
         │   ├── lab_1/
         │   ├── lab_2/
         │   ├── lab_2_activities/
         │   ├── lab_3_triggers/
         │   ├── lab_4_monitoring/
-        │   └── lab_5_IR/
+        │   ├── lab_5_IR/
+        │   └── lab_6_adf_adls_databricks/
+        │
         ├── day_1_azure_fundamentals/
         │   └── day_1_azure_fundamentals.pdf
+        │
         ├── day_2_azure_fundamentals/
         │   └── [Day 2 learning files]
+        │
         ├── day_3_azure_fundamentals/
         │   └── day_3_azure_fundamentals.pdf
+        │
         ├── day_4_azure_fundamentals/
         │   └── day_4_azure_fundamentals.pdf
+        │
         ├── day_5_azure_fundamentals/
         │   └── day_5_azure_fundamentals.pdf
+        │
         └── day_6_azure_fundamentals/
             └── day_6_azure_fundamentals.pdf
 ```
@@ -49,7 +64,7 @@ Tri_Cloud_Essentials_Practice/
 The tree reflects the current learning organization; additional files
 will be added as the exercises progress.
 
-## Current Progress --- 29th, October 2026
+## Current Progress --- 30th, October 2026
 
 ## Azure Learning Progress
 
@@ -78,8 +93,15 @@ will be added as the exercises progress.
 
 ## AWS Learning Progress
 
-**Day 1: AWS Fundamentals** - AWS introductory learning material is available in `src/AWS/day_1_aws_fundamentals/`.
-
+**Day 1: AWS Fundamentals** 
+- AWS introductory learning material is available in `src/AWS/day_1_aws_fundamentals/`.
+  
+**Day 2: AWS Storage,Keys**
+- Studied Amazon S3 fundamentals, including its purpose and role in AWS storage.
+- Understood S3 buckets, objects, and prefixes.
+- Explored S3 storage classes and their use cases.
+- Learned about S3 security features, IAM permissions, and access control `src/AWS/day_2_aws_fundamentals/`.
+  
 ## Lab 1: Managed Identity and RBAC
 
 The practical lab covers:
